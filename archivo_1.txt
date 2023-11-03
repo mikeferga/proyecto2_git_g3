@@ -1,0 +1,6 @@
+nombre: Michael
+apellidos: Fernández García
+edad: 47
+aficiones:
+ - Motor
+ - Ingeniería
