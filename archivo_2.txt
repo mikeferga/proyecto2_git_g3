@@ -2,6 +2,7 @@ Curriculum:
 - PILOTO TECNICO
 - INGENIERO DE PRODUCTO
 - PAYASO
+- Trapecista
 Soft skills:
 - Problem solving
 - Paciencia
