@@ -2,6 +2,7 @@ nombre: Michael
 apellidos: Fernández García
 edad: 47
 e-mail: mikeferga@gmail.com
+phone: 666777555
 aficiones:
  - Motor
  - Ingeniería
