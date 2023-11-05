@@ -2,3 +2,7 @@ Curriculum:
 - PILOTO TECNICO
 - INGENIERO DE PRODUCTO
 - PAYASO
+Soft skills:
+- Problem solving
+- Paciencia
+- trabajo en equipo
